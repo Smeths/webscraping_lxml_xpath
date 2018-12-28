@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+
+<book>
+  <title lang="ge">
+    Harry Potter
+  </title>
+  <price currency="pounds">29.99</price>
+  <author lang="ge">
+    <firstname>Joanne</firstname>
+    <lastname> Rowling</lastname>
+  </author>
+</book>
+
+<book>
+  <title lang="en">Learning XML</title>
+  <price currency="dollars">39.95</price>
+  <author lang="en">
+    <firstname>John</firstname>
+    <lastname> Smith</lastname>
+  </author>
+  <author lang="en">
+    <firstname>Fred</firstname>
+    <lastname> Blogs</lastname>
+  </author>
+</book>
+
+</bookstore> 
